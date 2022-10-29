@@ -2,6 +2,8 @@
 
 :fire:忽必烈李@bilibili:fire:
 
+[toc]
+
 ## Graph
 
 ```python
@@ -378,3 +380,10 @@ plt.savefig('temperature.png')
 ```
 
 ![](temperature.png)
+
+## 参考资料：
+
+[1] https://www.youtube.com/playlist?list=PLLybgCU6QCGVFipsHDlBANIaM4WJ1U0oe
+
+[2]官方资料 https://www.matplotlib.org.cn/ 
+
