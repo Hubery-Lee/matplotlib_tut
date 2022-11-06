@@ -4,7 +4,7 @@
 
 [toc]
 
-![](/home/hubery-lee/WorkSpace/leeTutorials/matplotlib_tut/Best-Free-Open-Source-Plotting-Tools.png)
+![](Best-Free-Open-Source-Plotting-Tools.png)
 
 ![](https://matplotlib.org/stable/_images/anatomy.png)
 
